@@ -7,15 +7,15 @@ A responsive webapp that uses messaging (when it makes sense) to automate as man
 
 ### Objects the system has to be aware of aka db tables
 
-Students
-Administrators
-Teachers
-Courses
-Schedules
-Grades
-Narratives
-Parents
-Parent Volunteer Opportunities
+- Students
+- Administrators
+- Teachers
+- Courses
+- Schedules
+- Grades
+- Narratives
+- Parents
+- Parent Volunteer Opportunities
 
 
 ### Tasks
