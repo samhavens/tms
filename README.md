@@ -90,6 +90,10 @@ Teachers should be able to enter their course description in the app. They shoul
 
 System to automatically encourage parents to volunteer. Once they have signed up, the system needs to automatically send them reminders.
 
+### Questions
+
+- Is there an open source project that can serve as the starting point for this?
+
 ### Notes
 
 I spent a year doing everything on the computer, and I went back to the green gradebook. Opening a laptop to take attendance is too big an ask. Teachers are already slammed, this needs to be easy as hell.
