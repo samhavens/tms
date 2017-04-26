@@ -74,7 +74,7 @@ This response should be stored, and correlated with the class and teacher. Ideal
 
 Once this data is collected and stored appropriately, it also has to be displayed...
 
-### Report card templating
+#### Report card templating
 
 The report card generation process is a nightmare. Across the whole school, we are talking about tens or even hundreds of wasted hours.
 
@@ -100,5 +100,5 @@ Prioritize
 
 #### Teacher client
 
-- A web interface is good, but an app may be required. If so, if (jsonette)[http://jasonette.com/] suffices, let's go with that.
-- Usine natural language input whenever possible
+- A web interface is good, but an app may be required. If so, if [jsonette](http://jasonette.com/) suffices, let's go with that.
+- Use natural language input whenever possible
