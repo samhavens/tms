@@ -24,7 +24,7 @@ A responsive webapp that uses messaging (when it makes sense) to automate as man
 
 `n, Constraints -> Groups (n)`
 
-Automatically generate groups of students, constrained on reasonable dimensions. For example, "James and Iggy can't be in the same group; definitely put Sky and Gabby together; A, B, and C need to be in separate groups (ran out of plausible student names))" would be a reasonable constraint, and then the system would be told how many groups to generate, and it would generate a random set of groups that met the criteria. 
+Automatically generate groups of students, constrained on reasonable dimensions. For example, "James and Iggy can't be in the same group; definitely put Sky and Gabby together; A, B, and C need to be in separate groups (ran out of plausible student names)" would be a reasonable constraint, and then the system would be told how many groups to generate, and it would generate a random set of groups that met the criteria. 
 
 - Students can be moved between groups.
 - Groups can be regenerated.
@@ -53,6 +53,10 @@ A way for teachers to easily take attendance via the application. It has to be S
 ##### Dream
 
 Seating chart -> take a picture of the class -> upload -> attendance done (except for absent students who become tardy)
+
+##### Actually, the real dream
+
+Rasberry pi with video cam in corner of room -> sends POST requests to server with enter and exit times of each student (no video stored long term or sent outside of the classroom)
 
 #### Grades
 
