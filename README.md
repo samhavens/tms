@@ -72,6 +72,12 @@ A typical response might be "Julie was still very quiet... hoping to get her out
 
 This response should be stored, and correlated with the class and teacher. Ideally, it would also be able to reference the student records mentioned. That way a narrative for each student (that gets mentioned), in each class, gets created. Then, come report card time, all those notes can show up on the appopriate student's report card template. For Julie, in our examples above, there would be the outline of a clear narrative about participating and engaging more in class.
 
+Here are some notes from a would-be user:
+
+> I wish each lesson I noted one or two kids quotes or what they did. Then it notified me if I had less about one kid
+> So it knew my schedule and it said "what happened in math block today?"
+> And I respond with a few lines and it recognizes anyone's name and puts in in their folder under the right subject"
+
 Once this data is collected and stored appropriately, it also has to be displayed...
 
 #### Report card templating
